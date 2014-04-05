@@ -17,3 +17,6 @@ One of the most popular and productive methods is __mind mapping__. Traditionall
 - [MindMeister](http://www.mindmeister.com/)
 
 Mind maps are generally formed by placing a central idea in the middle of a page or blank digital project and branch out with categories or hierarchal information with lines linking ideas or concepts. The goal is to not be afraid of ideas that seem unrelated or even to employ some random or outside influence to aid in the activity. [Learning How to Learn](http://www.cambridge.org/us/academic/subjects/psychology/developmental-psychology/learning-how-learn) by Joseph Novak discusses this in great detail. 
+
+### Concept Maps
+Another form of mapping employs most of what mind maps entail while adding proposition or linking statements between hierarchal ideas. Phrases such as, "depends on," "can be," "made of," or "from." 
