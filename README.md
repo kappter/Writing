@@ -7,6 +7,7 @@ Many of us can recall a time when a brainstorming session was effective and anot
 
 ### Mind Mapping
 ![Mind Map](http://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Guru_Mindmap.jpg/250px-Guru_Mindmap.jpg)
+
 One of the most popular and productive methods is __mind mapping__. Traditionally done on paper, digital mind mapping tools are available for smart phones, tablets, desktops, and even with any web browser. 
 
 #### PC/Mac
@@ -20,4 +21,6 @@ One of the most popular and productive methods is __mind mapping__. Traditionall
 Mind maps are generally formed by placing a central idea in the middle of a page or blank digital project and branch out with categories or hierarchal information with lines linking ideas or concepts. The goal is to not be afraid of ideas that seem unrelated or even to employ some random or outside influence to aid in the activity. [Learning How to Learn](http://www.cambridge.org/us/academic/subjects/psychology/developmental-psychology/learning-how-learn) by Joseph Novak discusses this in great detail. 
 
 ### Concept Maps
+![Concept Map](http://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Conceptmap.gif/450px-Conceptmap.gif)
+
 Another form of mapping employs most of what mind maps entail while adding proposition or linking statements between hierarchal ideas. Phrases such as, "depends on," "can be," "made of," or "from." 
