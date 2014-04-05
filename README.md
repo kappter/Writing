@@ -15,3 +15,5 @@ One of the most popular and productive methods is __mind mapping__. Traditionall
 #### Web Based
 - [FreeMind Web App](http://freemind.sourceforge.net/wiki/index.php/Main_Page)
 - [MindMeister](http://www.mindmeister.com/)
+
+Mind maps are generally formed by placing a central idea in the middle of a page or blank digital project and branch out with categories or hierarchal information with lines linking ideas/concepts. The goal is to not be afraid of ideas that seem unrelated or even to employ some random or outside influence to aid in the activity. 
