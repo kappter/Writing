@@ -6,6 +6,7 @@ No matter the industry, writing is a skill that _will_ make a difference. The ch
 Many of us can recall a time when a brainstorming session was effective and another when it was a waste of time. We are therefor most likely aware of the goal of any [brainstorming](http://en.wikipedia.org/wiki/Brainstorming) activity; which is simply __to attempt to find a solution to a problem as a group or individual by collecting poor and superb approaches while embracing random or seemingly unrelated concepts in the approach__. 
 
 ### Mind Mapping
+![Mind Map](http://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Guru_Mindmap.jpg/250px-Guru_Mindmap.jpg)
 One of the most popular and productive methods is __mind mapping__. Traditionally done on paper, digital mind mapping tools are available for smart phones, tablets, desktops, and even with any web browser. 
 
 #### PC/Mac
