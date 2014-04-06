@@ -54,3 +54,18 @@ __TRY IT!__:
 
 1. Perform a freewrite as normal
 2. Reread the creation and circle the most interesting or provocative thoughts to develop (1-5 suffice, keep is short.) 3. Take each topic and write it in reverse to original topic while being as spontaneous and detailed as possible for a prescribed period of time. 
+
+
+### Brainwriting
+
+### Word Lists
+
+### Outlining
+
+### Critiquing
+- Round Robin
+- Voting
+- 
+
+### Sticky Notes
+
