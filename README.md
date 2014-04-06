@@ -10,13 +10,6 @@ Many of us can recall a time when a brainstorming session was effective and anot
 
 One of the most popular and productive methods is __mind mapping__. Traditionally done on paper, digital mind mapping tools are available for smart phones, tablets, desktops, and even with any web browser. 
 
-#### TRY IT!
-1. Grab a sheet of paper and write a word in the middle (emphasize it be size, color or weight).
-2. Write hight level words around it that logically connect directly to the main subject.
-3. Do the same for each node until you realize your topics are no longer related at all. 
-- VARIATION: use magnetic poetry or a random idea generator to produce ideas only to see if a relationship exists and follow it out as far as possible.
-- VARIATION: Try the exercise 1: without a reference or 2: with an exhaustive reference.
-
 #### PC/Mac
 - [MindNode](https://mindnode.com) (Mac only)
 - [FreeMind](http://freemind.sourceforge.net/wiki/index.php/Download)
@@ -25,6 +18,13 @@ One of the most popular and productive methods is __mind mapping__. Traditionall
 #### Web Based
 - [FreeMind Web App](http://freemind.sourceforge.net/wiki/index.php/Main_Page)
 - [MindMeister](http://www.mindmeister.com/)
+
+#### TRY IT!
+1. Grab a sheet of paper and write a word in the middle (emphasize it be size, color or weight).
+2. Write hight level words around it that logically connect directly to the main subject.
+3. Do the same for each node until you realize your topics are no longer related at all. 
+- VARIATION: use magnetic poetry or a random idea generator to produce ideas only to see if a relationship exists and follow it out as far as possible.
+- VARIATION: Try the exercise 1: without a reference or 2: with an exhaustive reference.
 
 Mind maps are generally formed by placing a central idea in the middle of a page or blank digital project and branch out with categories or hierarchal information with lines linking ideas or concepts. The goal is to not be afraid of ideas that seem unrelated or even to employ some random or outside influence to aid in the activity. [Learning How to Learn](http://www.cambridge.org/us/academic/subjects/psychology/developmental-psychology/learning-how-learn) by Joseph Novak discusses this in great detail. 
 
