@@ -11,6 +11,7 @@ Many of us can recall a time when a brainstorming session was effective and anot
 One of the most popular and productive methods is __mind mapping__. Traditionally done on paper, digital mind mapping tools are available for smart phones, tablets, desktops, and even with any web browser. 
 
 #### PC/Mac
+- [MindNode](https://mindnode.com) (Mac only)
 - [FreeMind](http://freemind.sourceforge.net/wiki/index.php/Download)
 - [MindView 5](http://www.matchware.com/mv3be_landing.php?gclid=CLWK0Mepyr0CFdKGfgod-lwADA)
 
