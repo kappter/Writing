@@ -34,6 +34,8 @@ __TRY IT!__:
 
 Another form of mapping employs most of what mind maps entail while adding proposition or linking statements between hierarchal or otherwise connected ideas. Phrases such as, "depends on," "can be," "made of," or "from." 
 
+"When concept maps are expanded to include narrative writing, students are able to make more meaningful connections. According to Davis, “if it is just a reflection of how students view the hierarchical relationships among simple things, it is tough to make the writing do more than reveal that hierarchy.” Both Davis and Dubberly encourage consideration of visual mapping issues such as shape, scale, proximity, and color to further emphasize conceptual relationships. For visual thinkers, the addition of these elements creates a more robust visual language."
+
 ### Freewriting
 [Freewriting](http://www.wikihow.com/Freewrite) is the act of writing for a pre-determined amount of time on paper or computer without lifting hands from the device written on. 
 
