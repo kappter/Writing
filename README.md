@@ -35,3 +35,10 @@ Another form of mapping employs most of what mind maps entail while adding propo
 
 ### Freewriting
 [Freewriting](http://www.wikihow.com/Freewrite) is the act of writing for a pre-determined amount of time on paper or computer without lifting hands from the device written on. 
+
+The following are ways freewriting can be used when working on a visual project:
+- Write for 10–15 minutes about the problem or the subject in a more general way (for instance, why you chose this topic, what it is about)
+- Write for 10 minutes about everything related to the subject or problem
+- Write down three words important to the subject or problem and then write for 10–15 minutes about those three words
+- Midway through a project, write down what you have done in terms of concept development and idea searching, and what more could be done
+- Pose a specific question about the project and answer it
