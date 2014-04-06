@@ -10,6 +10,12 @@ Many of us can recall a time when a brainstorming session was effective and anot
 
 One of the most popular and productive methods is __mind mapping__. Traditionally done on paper, digital mind mapping tools are available for smart phones, tablets, desktops, and even with any web browser. 
 
+#### TRY IT!
+1. Grab a sheet of paper and write a word in the middle (emphasize it be size, color or weight).
+2. Write hight level words around it that logically connect directly to the main subject.
+3. Do the same for each node until you realize your topics are no longer related at all. 
+- VARIATION: use magnetic poetry or a random idea generator to produce ideas only to see if a relationship exists and follow it out as far as possible.
+
 #### PC/Mac
 - [MindNode](https://mindnode.com) (Mac only)
 - [FreeMind](http://freemind.sourceforge.net/wiki/index.php/Download)
@@ -24,4 +30,6 @@ Mind maps are generally formed by placing a central idea in the middle of a page
 ### Concept Maps
 ![Concept Map](http://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Conceptmap.gif/450px-Conceptmap.gif)
 
-Another form of mapping employs most of what mind maps entail while adding proposition or linking statements between hierarchal ideas. Phrases such as, "depends on," "can be," "made of," or "from." 
+Another form of mapping employs most of what mind maps entail while adding proposition or linking statements between hierarchal or otherwise connected ideas. Phrases such as, "depends on," "can be," "made of," or "from." 
+
+### Freewriting
