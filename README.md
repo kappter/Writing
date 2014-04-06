@@ -19,14 +19,14 @@ One of the most popular and productive methods is __mind mapping__. Traditionall
 - [FreeMind Web App](http://freemind.sourceforge.net/wiki/index.php/Main_Page)
 - [MindMeister](http://www.mindmeister.com/)
 
+Mind maps are generally formed by placing a central idea in the middle of a page or blank digital project and branch out with categories or hierarchal information with lines linking ideas or concepts. The goal is to not be afraid of ideas that seem unrelated or even to employ some random or outside influence to aid in the activity. [Learning How to Learn](http://www.cambridge.org/us/academic/subjects/psychology/developmental-psychology/learning-how-learn) by Joseph Novak discusses this in great detail. 
+
 #### TRY IT!
 1. Grab a sheet of paper and write a word in the middle (emphasize it be size, color or weight).
 2. Write hight level words around it that logically connect directly to the main subject.
 3. Do the same for each node until you realize your topics are no longer related at all. 
 - VARIATION: use magnetic poetry or a random idea generator to produce ideas only to see if a relationship exists and follow it out as far as possible.
 - VARIATION: Try the exercise 1: without a reference or 2: with an exhaustive reference.
-
-Mind maps are generally formed by placing a central idea in the middle of a page or blank digital project and branch out with categories or hierarchal information with lines linking ideas or concepts. The goal is to not be afraid of ideas that seem unrelated or even to employ some random or outside influence to aid in the activity. [Learning How to Learn](http://www.cambridge.org/us/academic/subjects/psychology/developmental-psychology/learning-how-learn) by Joseph Novak discusses this in great detail. 
 
 ### Concept Maps
 ![Concept Map](http://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Conceptmap.gif/450px-Conceptmap.gif)
