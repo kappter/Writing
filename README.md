@@ -21,7 +21,7 @@ One of the most popular and productive methods is __mind mapping__. Traditionall
 
 Mind maps are generally formed by placing a central idea in the middle of a page or blank digital project and branch out with categories or hierarchal information with lines linking ideas or concepts. The goal is to not be afraid of ideas that seem unrelated or even to employ some random or outside influence to aid in the activity. [Learning How to Learn](http://www.cambridge.org/us/academic/subjects/psychology/developmental-psychology/learning-how-learn) by Joseph Novak discusses this in great detail. 
 
-#### TRY IT!
+__TRY IT!__
 1. Grab a sheet of paper and write a word in the middle (emphasize it be size, color or weight).
 2. Write hight level words around it that logically connect directly to the main subject.
 3. Do the same for each node until you realize your topics are no longer related at all. 
@@ -36,7 +36,7 @@ Another form of mapping employs most of what mind maps entail while adding propo
 ### Freewriting
 [Freewriting](http://www.wikihow.com/Freewrite) is the act of writing for a pre-determined amount of time on paper or computer without lifting hands from the device written on. 
 
-TRY IT: use the following strategies for visual project:
+__TRY IT:__ use the following strategies for visual project:
 - Write for 10–15 minutes about the problem or the subject in a more general way (for instance, why you chose this topic, what it is about)
 - Write for 10 minutes about everything related to the subject or problem
 - Write down three words important to the subject or problem and then write for 10–15 minutes about those three words
@@ -46,7 +46,7 @@ TRY IT: use the following strategies for visual project:
 ### Looping
 An extension of freewriting used to direct the freewrite back to itself. The point is NOT to worry about grammar while extending out as far as possible with a topic or problem and bringing it back to near relevance. 
 
-TRY IT: 
+__TRY IT:__ 
 1. Perform a freewrite as normal
 2. Reread the creation and circle the most interesting or provocative thoughts to develop (1-5 suffice, keep is short.) 3. Take each topic and write it in reverse to original topic while being as spontaneous and detailed as possible for a prescribed period of time. 
 3. 
