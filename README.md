@@ -34,3 +34,4 @@ Mind maps are generally formed by placing a central idea in the middle of a page
 Another form of mapping employs most of what mind maps entail while adding proposition or linking statements between hierarchal or otherwise connected ideas. Phrases such as, "depends on," "can be," "made of," or "from." 
 
 ### Freewriting
+[Freewriting](http://www.wikihow.com/Freewrite) is the act of writing for a pre-determined amount of time on paper or computer without lifting hands from the device written on. 
