@@ -15,6 +15,7 @@ One of the most popular and productive methods is __mind mapping__. Traditionall
 2. Write hight level words around it that logically connect directly to the main subject.
 3. Do the same for each node until you realize your topics are no longer related at all. 
 - VARIATION: use magnetic poetry or a random idea generator to produce ideas only to see if a relationship exists and follow it out as far as possible.
+- VARIATION: Try the exercise 1: without a reference or 2: with an exhaustive reference.
 
 #### PC/Mac
 - [MindNode](https://mindnode.com) (Mac only)
